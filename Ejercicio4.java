@@ -1,5 +1,7 @@
 package com.generation;
 
+// Este es un comentario de prueba.
+
 public class Codigo4 {
 
     Scanner s = new Scanner();
